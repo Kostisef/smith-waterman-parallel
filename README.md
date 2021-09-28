@@ -11,8 +11,9 @@ There three different aproaches:
 
 
 
-<p float="left">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/37264702/135074069-20525425-ea64-4e7f-8db5-7d8a370bd292.png" width="250" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://user-images.githubusercontent.com/37264702/135074056-71315a00-96f3-4bb2-8cec-0ccf590cea3b.png" width="300" /> 
 </p>
 
